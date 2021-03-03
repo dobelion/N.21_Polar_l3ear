@@ -551,6 +551,12 @@ footer .copyright
   width : 390px;
   position : relative;
 }
+.btn {
+  transition: .3s;
+}
+.btn:hover {
+  opacity: 0.3;
+}
 /*.Hyoseob{
   position : absolute;
   top : -20px;
